@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Josephat Omondi - CV</title>
+    <style>
+      :root {
+        --text: #111827;
+        --muted: #4b5563;
+        --line: #e5e7eb;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0;
+        color: var(--text);
+        background: #f3f4f6;
+      }
+
+      .page {
+        width: min(900px, 94%);
+        margin: 1.2rem auto;
+        background: #fff;
+        border: 1px solid var(--line);
+        padding: 2rem;
+      }
+
+      h1 {
+        margin: 0 0 0.3rem;
+        font-size: 2rem;
+      }
+
+      h2 {
+        margin: 1.2rem 0 0.45rem;
+        font-size: 1.05rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 0.25rem;
+      }
+
+      h3 {
+        margin: 0.5rem 0 0.15rem;
+        font-size: 1rem;
+      }
+
+      p {
+        margin: 0.25rem 0;
+      }
+
+      ul {
+        margin: 0.35rem 0 0.35rem 1.1rem;
+        padding: 0;
+      }
+
+      li {
+        margin: 0.18rem 0;
+      }
+
+      .muted {
+        color: var(--muted);
+      }
+
+      .contact-line {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.7rem 1.2rem;
+      }
+
+      .header-note {
+        margin-top: 0.8rem;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      .toolbar {
+        width: min(900px, 94%);
+        margin: 1rem auto 0.4rem;
+        display: flex;
+        justify-content: flex-end;
+      }
+
+      .print-btn {
+        border: 1px solid #2563eb;
+        background: #2563eb;
+        color: #fff;
+        border-radius: 8px;
+        padding: 0.5rem 0.9rem;
+        cursor: pointer;
+        font-weight: 600;
+      }
+
+      @media print {
+        body {
+          background: #fff;
+        }
+
+        .toolbar,
+        .header-note {
+          display: none;
+        }
+
+        .page {
+          width: 100%;
+          margin: 0;
+          border: 0;
+          padding: 0;
+        }
+
+        @page {
+          size: A4;
+          margin: 12mm;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="toolbar">
+      <button class="print-btn" onclick="window.print()">Download as PDF</button>
+    </div>
+
+    <main class="page">
+      <header>
+        <h1>Josephat Omondi</h1>
+        <p class="muted">Software Engineering Student</p>
+        <div class="contact-line">
+          <p>Email: omondijosephat24@gmail.com</p>
+          <p>Phone: +254 797 620 230</p>
+          <p>Location: Nairobi, Kenya</p>
+          <p>GitHub: github.com/josephat200</p>
+          <p>LinkedIn: josephatomondi2005@gmail.com</p>
+        </div>
+        <p class="header-note">Tip: Click “Download as PDF” or press Ctrl+P and choose “Save as PDF”.</p>
+      </header>
+
+      <section>
+        <h2>Professional Summary</h2>
+        <p>
+          A motivated and detail-oriented Software Engineering student with strong foundations in web development,
+          mobile applications, and full-stack systems design. Skilled in both frontend and backend development, with
+          hands-on experience building scalable e-commerce platforms. Passionate about problem-solving, continuous
+          learning, and applying emerging technologies to real-world challenges. Currently seeking internship or
+          entry-level opportunities to expand practical experience and contribute to innovative projects.
+        </p>
+      </section>
+
+      <section>
+        <h2>Education</h2>
+        <h3>Bachelor of Science in Software Engineering</h3>
+        <p>Kirinyaga University (KYU) — Expected Graduation: 2026</p>
+
+        <h3>Kenya Certificate of Secondary Education (KCSE)</h3>
+        <p>Ober Boys High School — 2020 - 2023</p>
+
+        <h3>Computer Packages Certification (Distinction)</h3>
+        <p>Roba Computer School — 2023 - 2024</p>
+
+        <h3>Kenya Certificate of Primary Education (KCPE)</h3>
+        <p>Kandiege Primary School — 2010 - 2019</p>
+      </section>
+
+      <section>
+        <h2>Skills</h2>
+        <p><strong>Technical Skills:</strong> HTML, CSS, JavaScript, Python, Java, C, C++, PHP, SQL, R</p>
+        <p><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB</p>
+        <p><strong>Frameworks &amp; Tools:</strong> React.js, Angular, Vue.js, Node.js, Django, Laravel, Spring Boot</p>
+        <p><strong>Version Control &amp; Deployment:</strong> Git, GitHub, VS Code, Netlify, Docker, Kubernetes</p>
+        <p><strong>Cloud Services:</strong> AWS, Microsoft Azure, Google Cloud</p>
+        <p><strong>Soft Skills:</strong> Communication, Team Collaboration, Problem-Solving, Time Management</p>
+      </section>
+
+      <section>
+        <h2>Experience</h2>
+        <h3>IT Intern — Roba Computer School</h3>
+        <p class="muted">May 2025 - August 2025</p>
+        <ul>
+          <li>Assisted in system testing and troubleshooting.</li>
+          <li>Supported website maintenance and updates.</li>
+          <li>Collaborated with the development team on small-scale projects.</li>
+          <li>Gained practical exposure to software deployment and user support.</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Projects</h2>
+        <h3>TECH.RICA Official E-Commerce Platform</h3>
+        <p>A scalable e-commerce platform enabling customers to trade globally.</p>
+        <p><strong>Frontend:</strong> React.js, Angular, Vue.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS</p>
+        <p><strong>Backend:</strong> Node.js + Express, Django, Ruby on Rails, PHP/Laravel, Java Spring Boot</p>
+        <p><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Redis</p>
+        <p><strong>Payments:</strong> Stripe, PayPal, Flutterwave, M-Pesa</p>
+        <p><strong>Cloud &amp; Hosting:</strong> AWS, Azure, Google Cloud, Cloudflare CDN</p>
+        <p><strong>Security:</strong> SSL/TLS, OAuth 2.0, JWT, Fraud Detection AI</p>
+        <p><strong>Enhancements:</strong> AI-driven recommendations, Chatbots, CRM/ERP integration, Analytics tools</p>
+      </section>
+
+      <section>
+        <h2>Certifications</h2>
+        <ul>
+          <li>Kenya Certificate of Primary Education - 2019</li>
+          <li>Kenya Certificate of Secondary Education - 2023</li>
+          <li>Certificate of Completion (Computer Packages) - Roba Computer School, 2023</li>
+          <li>Certificate of Participation - Computer Society of Kirinyaga, 2024</li>
+          <li>Certificate of Participation - Computer Society of Kirinyaga, 2025</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Interests</h2>
+        <ul>
+          <li>Coding &amp; Software Development</li>
+          <li>Tech Blogging</li>
+          <li>Open-Source Contribution</li>
+          <li>Exploring E-commerce Innovations</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Referees</h2>
+        <ul>
+          <li>Kirinyaga University - Tel: +254 709 742000 | Email: info@kyu.ac.ke</li>
+          <li>Roba Computer School - Tel: +254 103 667040</li>
+          <li>Ober Boys High School - Contact available upon request</li>
+          <li>Madam Milicent Muga - Headmistress, Kandiege Primary School</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

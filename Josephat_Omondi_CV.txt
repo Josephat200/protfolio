@@ -1,0 +1,63 @@
+JOSEPHAT OMONDI
+Software Engineering Student
+Nairobi, Kenya
+
+Contact
+Email: omondijosephat24@gmail.com
+Phone: +254 797 620 230
+GitHub: github.com/josephat200
+LinkedIn: josephatomondi2005@gmail.com
+
+Professional Summary
+A motivated and detail-oriented Software Engineering student with strong foundations in web development, mobile applications, and full-stack systems design. Skilled in both frontend and backend development, with hands-on experience building scalable e-commerce platforms. Passionate about problem-solving, continuous learning, and applying emerging technologies to real-world challenges. Currently seeking internship or entry-level opportunities to expand practical experience and contribute to innovative projects.
+
+Education
+- Bachelor of Science in Software Engineering, Kirinyaga University (KYU), Expected Graduation: 2026
+- Kenya Certificate of Secondary Education (KCSE), Ober Boys High School, 2020 - 2023
+- Computer Packages Certification (Distinction), Roba Computer School, 2023 - 2024
+- Kenya Certificate of Primary Education (KCPE), Kandiege Primary School, 2010 - 2019
+
+Skills
+Technical Skills: HTML, CSS, JavaScript, Python, Java, C, C++, PHP, SQL, R
+Databases: MySQL, PostgreSQL, MongoDB
+Frameworks & Tools: React.js, Angular, Vue.js, Node.js, Django, Laravel, Spring Boot
+Version Control & Deployment: Git, GitHub, VS Code, Netlify, Docker, Kubernetes
+Cloud Services: AWS, Microsoft Azure, Google Cloud
+Soft Skills: Communication, Team Collaboration, Problem-Solving, Time Management
+
+Experience
+IT Intern - Roba Computer School, May 2025 - August 2025
+- Assisted in system testing and troubleshooting.
+- Supported website maintenance and updates.
+- Collaborated with the development team on small-scale projects.
+- Gained practical exposure to software deployment and user support.
+
+Project
+TECH.RICA Official E-Commerce Platform
+Description: A scalable e-commerce platform enabling customers to trade globally.
+Frontend: React.js, Angular, Vue.js, HTML5, CSS3, JavaScript, Bootstrap, Tailwind CSS
+Backend: Node.js + Express, Django, Ruby on Rails, PHP/Laravel, Java Spring Boot
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Payments: Stripe, PayPal, Flutterwave, M-Pesa
+Cloud & Hosting: AWS, Azure, Google Cloud, Cloudflare CDN
+Security: SSL/TLS, OAuth 2.0, JWT, Fraud Detection AI
+Enhancements: AI-driven recommendations, Chatbots, CRM/ERP integration, Analytics tools
+
+Certifications
+- Kenya Certificate of Primary Education - 2019
+- Kenya Certificate of Secondary Education - 2023
+- Certificate of Completion (Computer Packages) - Roba Computer School, 2023
+- Certificate of Participation - Computer Society of Kirinyaga, 2024
+- Certificate of Participation - Computer Society of Kirinyaga, 2025
+
+Interests
+- Coding & Software Development
+- Tech Blogging
+- Open-Source Contribution
+- Exploring E-commerce Innovations
+
+Referees
+- Kirinyaga University - Tel: +254 709 742000 | Email: info@kyu.ac.ke
+- Roba Computer School - Tel: +254 103 667040
+- Ober Boys High School - Contact available upon request
+- Madam Milicent Muga - Headmistress, Kandiege Primary School
